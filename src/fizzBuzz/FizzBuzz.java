@@ -23,3 +23,5 @@ public class FizzBuzz {
 		}
 	}
 }
+
+// Mellora solucion: crear funcion que reciba como parametro o numero maximo e chamala desde main co numero
